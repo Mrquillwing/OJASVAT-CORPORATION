@@ -93,5 +93,5 @@ We are currently focusing on internal development, but we welcome discussions an
 ---
 <div align="center">
   <p>Built through creativity, collaboration, and code.</p>
-  <p>© 2024 OJASVAT-CORPORATION</p>
+  <p>© 2026 OJASVAT-CORPORATION</p>
 </div>
