@@ -1,153 +1,199 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="OJASVAT-CORPORATION" width="220">
-</p>
+<div align="center">
 
-<h1 align="center">OJASVAT-CORPORATION</h1>
+# OJASVAT-CORPORATION
 
-<p align="center"><em>Engineering Ideas. Building Possibilities.</em></p>
+### ⚡ Engineering Ideas. Building Possibilities.
 
-<p align="center">
-  <a href="#"><img alt="Status" src="https://img.shields.io/badge/status-drafting-8B5CF6"></a>
-  <a href="#"><img alt="Design" src="https://img.shields.io/badge/design-premium-black?style=flat&color=6366F1"></a>
-  <a href="#"><img alt="License" src="https://img.shields.io/badge/license-MIT-38BDF8"></a>
-</p>
+**A Developer Collaboration by Adrian_elswarth & Rishi Raj**
 
----
+<br>
 
-## Overview
+![Status](https://img.shields.io/badge/STATUS-DEVELOPING-8B5CF6?style=for-the-badge)
+![Development](https://img.shields.io/badge/FOCUS-SOFTWARE_DEVELOPMENT-6366F1?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/BUILT-TOGETHER-38BDF8?style=for-the-badge)
 
-OJASVAT-CORPORATION is a developer-led collaboration between two engineers focused on modern web experiences, thoughtful engineering, and creative experimentation. This repository contains a premium frontend website template showcasing the team's identity, design system, and interactive animations.
+<br>
 
-This repository is a design and marketing website template (static frontend). It is intentionally neutral about production usage — the site highlights skills, interests, and sample project placeholders.
+*Creativity meets code. Ideas become reality.*
+
+</div>
 
 ---
 
-## Table of contents
+## ◈ ABOUT OJASVAT
 
-- Home
-- About
-- Team
-- Projects
-- Technologies
-- Contact
+**OJASVAT-CORPORATION** is a collaborative developer initiative founded by **Adrian_elswarth** and **Rishi Raj**.
 
----
+We combine creative frontend development with backend engineering to explore ideas, build digital experiences, and develop useful software projects.
 
-## Team
+Our goal is to transform imagination into implementation through programming, experimentation, and continuous learning.
 
-- Adrian_elswarth — Founder & Frontend Developer  
-  Focus: crafting engaging interfaces, expressive visual experiences, responsive websites, and smooth interactions.
+### ✦ Our Core Principles
 
-- Rishi Raj — Co-Founder & Backend Developer  
-  Focus: backend architecture, APIs, databases, server-side logic, and reliable application infrastructure.
-
-(Profiles are intentionally factual and do not list invented achievements or employment.)
+- 🎨 **Creativity** — Designing engaging digital experiences.
+- ⚡ **Innovation** — Exploring new ideas and technologies.
+- ⚙️ **Engineering** — Building functional and maintainable solutions.
+- 🤝 **Collaboration** — Combining frontend and backend expertise.
+- 🌱 **Growth** — Learning, experimenting, and improving continuously.
 
 ---
 
-## Technologies (visual badges)
+## ◈ MEET THE DEVELOPERS
 
-Frontend
-- HTML 5
-- CSS 3
-- JavaScript (Vanilla)
-- UI / Animation Patterns
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Backend (areas of focus)
-- APIs
-- Databases
-- Server-side Architecture
-- Git & GitHub
+### 👑 Adrian_elswarth
 
-Badges (replace or remove as needed):
+**Founder & Frontend Developer**
 
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
-  <img alt="APIs" src="https://img.shields.io/badge/-APIs-38BDF8">
-  <img alt="Databases" src="https://img.shields.io/badge/-Databases-8B5CF6">
-</p>
+Focused on creating modern interfaces, responsive websites, and interactive digital experiences.
 
----
+**Areas of Expertise**
 
-## Project showcase (placeholders)
+- HTML, CSS & JavaScript
+- Frontend Development
+- UI/UX Design
+- Responsive Web Design
+- Creative Animations
+- Interactive Interfaces
 
-This repo includes a modular project card system. Sample placeholders are provided in the site — edit titles, descriptions, images, and links in index.html later.
+**Mission:** Turning creative ideas into beautiful digital experiences.
 
-Do not include live project URLs or repo links here unless they exist. The project cards are intentionally neutral placeholders.
+</td>
+<td width="50%" valign="top">
 
----
+### ⚙️ Rishi Raj
 
-## Local preview
+**Co-Founder & Backend Developer**
 
-1. Clone or download this repository.
-2. Ensure the following structure is present:
+Focused on backend systems, application logic, data management, and reliable software infrastructure.
 
-OJASVAT-CORPORATION/
-├── README.md
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    ├── adrian.jpg
-    ├── rishi.jpg
-    └── logo.svg
+**Areas of Expertise**
 
-3. Open index.html in a browser (no server required). For best results, use a modern browser.
+- Backend Development
+- API Integration
+- Server-Side Logic
+- Database Management
+- Application Architecture
+- Data Handling
+
+**Mission:** Building the systems that power digital experiences.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## How to add the avatar images (exact instructions)
+## ◈ WHAT WE BUILD
 
-1. Create a folder named `assets/` at the project root if it does not exist.
-2. Rename the first supplied avatar image exactly to `adrian.jpg` (lowercase).
-3. Rename the second supplied avatar image exactly to `rishi.jpg` (lowercase).
-4. Place `adrian.jpg` and `rishi.jpg` into the `assets/` folder.
-5. A simple logo SVG is included at `assets/logo.svg`. Keep it or replace it with your preferred vector logo (same filename).
+<div align="center">
 
-Example (case-sensitive on many systems):
+| 🌐 Web Development | 🧩 Web Applications |
+|:---:|:---:|
+| Modern and responsive websites | Interactive digital solutions |
 
-- OJASVAT-CORPORATION/assets/adrian.jpg
-- OJASVAT-CORPORATION/assets/rishi.jpg
-- OJASVAT-CORPORATION/assets/logo.svg
+| ⚙️ Developer Tools | 🔌 API-Powered Systems |
+|:---:|:---:|
+| Tools for productive workflows | Connected applications and services |
 
-Make sure files are not optimized into exotic formats; use standard JPG/PNG and keep filenames exactly as above to avoid broken paths.
+| 🧪 Experimental Software | 🎨 Digital Experiences |
+|:---:|:---:|
+| New concepts and prototypes | Technology combined with creativity |
 
----
-
-## Contributing
-
-- Keep contributions focused on improving design, accessibility, animations, or editable content.
-- For changes that affect visuals or animations, prefer small, reviewable commits.
-- If you add projects or links, do not invent URLs — only add real repo or live links.
+</div>
 
 ---
 
-## Accessibility & Best Practices
+## ◈ TECHNOLOGY STACK
 
-- The site supports prefers-reduced-motion.
-- Navigation is keyboard accessible.
-- Animations are subtle and professional, with clear contrast and spacing.
+### 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Backend Concepts
+
+![APIs](https://img.shields.io/badge/APIs-6366F1?style=for-the-badge)
+![Databases](https://img.shields.io/badge/Databases-8B5CF6?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend_Engineering-38BDF8?style=for-the-badge)
+
+> Our technology choices may vary between projects. These badges represent our areas of focus, not necessarily technologies used in every project.
 
 ---
 
-## License
+## ◈ PROJECT SHOWCASE
 
-MIT — See LICENSE (if you add one). If you prefer another license, update the README badges accordingly.
+We are working toward building creative, useful, and technically interesting digital projects.
 
----
+| Project | Description | Status |
+|---|---|---|
+| Coming Soon | New projects and experiments will be showcased here. | In Progress |
 
-## Contact / Connect
-
-Replace the placeholders below with your actual URLs when ready:
-
-- Corporation repository: REPO_URL
-- Adrian – GitHub profile: ADORE_REPLACE_WITH_USERNAME
-- Rishi – GitHub profile: RISHI_REPLACE_WITH_USERNAME
+**More projects will be added as development progresses.**
 
 ---
 
-© OJASVAT-CORPORATION — Built through creativity, collaboration, and code.
+## ◈ OUR VISION
+
+<div align="center">
+
+### "From Imagination to Implementation."
+
+We believe that great digital products emerge from curiosity,
+creative thinking, consistent effort, and thoughtful engineering.
+
+Our vision is to keep learning, explore ambitious ideas,
+and transform concepts into practical digital experiences.
+
+**Think Creatively. Build Intelligently. Improve Continuously.**
+
+</div>
+
+---
+
+## ◈ COLLABORATION
+
+We value meaningful collaboration and constructive feedback.
+
+Want to contribute?
+
+1. Explore the repository.
+2. Open an issue to discuss an idea or improvement.
+3. Fork the repository.
+4. Create a branch for your changes.
+5. Submit a pull request with a clear explanation.
+
+Every useful idea starts somewhere.
+
+---
+
+## ◈ CONNECT WITH US
+
+- **OJASVAT-CORPORATION:** Official development repository.
+- **Adrian_elswarth:** Founder & Frontend Developer.
+- **Rishi Raj:** Co-Founder & Backend Developer.
+
+*Add the developers' GitHub profile links here when their exact usernames are available.*
+
+---
+
+<div align="center">
+
+### OJASVAT-CORPORATION
+
+**Built through creativity, collaboration, and code.**
+
+<sub>© 2026 OJASVAT-CORPORATION</sub>
+
+<sub>Created by Adrian_elswarth & Rishi Raj</sub>
+
+</div>
